@@ -1,6 +1,7 @@
 body {
   display: block;
   margin: 8px;
+  background-color: #f8e8a6;
 }
 h1,
 p {
@@ -11,6 +12,7 @@ footer {
 }
 footer a {
   margin: 0 10px;
+  color: #008000;
 }
 
 img {
